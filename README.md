@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hafsa Raza</h1>
 <h3 align="center">I am passionate about Machine Learning.</h3>
+<img align= "right" alt = "Coading" width = "400" src= "https://playground.com/post/a-girl-lofi-is-sitting-at-her-desk-beautiful-face-beautifu-clugn5iij0513s60144cibjpz">
 
 - 🌱 I’m currently learning **ML, DL.**
 
